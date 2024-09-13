@@ -1,11 +1,11 @@
 Introduction to Docker-
 
 
-Installing Docker-
+Installing Docker- 
 
 
 
-Virtualization-
+Virtualization-https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 
 
