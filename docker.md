@@ -5,7 +5,7 @@ Installing Docker-
 
 
 
-Virtualization-https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
+Virtualization- https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 
 
@@ -13,4 +13,4 @@ Containerization- https://github.com/tomasGonz67/is373/blob/dev/Containerization
 
 
 
-Kernel-
+Kernel- https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
