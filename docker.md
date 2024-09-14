@@ -3,16 +3,17 @@ Docker is an open source tool that helps developers build, run, and package an a
 
 
 
-Installing Docker- 
+<h1>Installing Docker</h1>
 
 
 
-Virtualization- https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
+<h1>Virtualization</h1> 
+https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 
 
-Containerization- https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
+<h1>Containerization</h1> https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
 
 
 
-Kernel- https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
+<h1>Kernel</h1> https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
