@@ -1,5 +1,5 @@
 <h1>Virtualization</h1>
-Definition
+<h1></h1>Definition</h1>
 Virtualization is the process of creating virtual instances of physical hardware such as servers, storage devices, or network resources. 
   
 <h1>Why Virtualization?</h1>
