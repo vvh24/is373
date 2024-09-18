@@ -5,7 +5,7 @@ Docker is an open source tool that helps developers build, run, and package an a
 
 <h1>Installing Docker</h1>
 <h2>Windows</h2>
-1.) Download Docker Desktop from official website: https://www.docker.com/ /ln
+1.) Download Docker Desktop from official website: https://www.docker.com/ <br>
 2.) Run the Installer: Open downloaded exe file and follow insallation process. 
 3.) Enable WSL 2: Use the commands "wsl --install" and "wsl --set-default-version 2" in terminal 
 4.) Launch Docker.
