@@ -12,12 +12,9 @@ Summary -> Image
 https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>Containerization</h2>
-Summary -> Image
-https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
+Summary -> ![image](https://github.com/user-attachments/assets/a19fdcd5-09c9-4d04-b479-3aacbad4471b)
 
-<h2>Docker vs Kubernets</h2>
-Summary -> Image
-Link
+https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
 
 <h2>Docker</h2> 
 Summary -> Image
