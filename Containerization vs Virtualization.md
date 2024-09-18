@@ -23,4 +23,6 @@ Some advantages of Containerization are:
 
 Some of the differences between containerization and virtualization are: 
 
-<img src = "img/differences_containerization_virtualization.png" alt="differences diagram" width="500"/>
+<div align="center">
+  <img src = "img/differences_containerization_virtualization.png" alt="differences diagram" width="700"/>
+</div>
