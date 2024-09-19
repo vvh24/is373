@@ -12,7 +12,7 @@ Summary -> Image
 https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>Containerization</h2>
-Summary -> ![cont](https://github.com/user-attachments/assets/edd86216-f5a5-439c-9cdb-f756d7f59a78)
+Summary -> ![cont](https://raw.github.com/user-attachments/assets/edd86216-f5a5-439c-9cdb-f756d7f59a78)
 
 
 
