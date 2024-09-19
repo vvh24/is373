@@ -16,7 +16,7 @@
 <p> In the link following link we will cover Virtualization definition, why virtualization, how it works, and it's importance:</p> https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>4. Containerization vs. Virtualization</h2>
-Summary -> Image
+<img src="img/vm_vs_containerization_gpt.png" alt="virtualization vs containerization diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover the difference between Containerization and Virtualization definition, strengths, and limitations:</p> 
 
 <h2>5. WSL (Windows Subsystem for Linux)</h2>
