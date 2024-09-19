@@ -2,6 +2,8 @@
 <h1>Definition</h1>
 WSL is a tool that lets you run a full Linux environment directly on your Windows computer. It’s like having both Windows and Linux side-by-side without needing to switch between them. You can use Linux commands, run Linux software, and work with files in both systems easily. Think of WSL as a bridge that allows Windows to use Linux features without needing a separate Linux installation.
 
+<img src="img/wsl.png" alt="wsl diagram" width="400"/>
+
 <h1>How does WSL work?</h1>
 WSL creates a lightweight "virtual machine" inside your Windows system. It lets Windows and Linux work together smoothly by:
 
@@ -18,7 +20,7 @@ WSL is a big deal for several reasons:
 <h1>Installation Process:</h1>
 <h1>Installing WSL on Windows</h1>
 
-**1. Enable WSL:
+1. Enable WSL:
 Open PowerShell (search for it in the start menu, right-click, and run as administrator).
 Type this command and press Enter: wsl --install. This installs WSL and sets up a Linux distribution (usually Ubuntu by default).
 
