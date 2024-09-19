@@ -12,7 +12,7 @@ Summary -> Image
 https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>Containerization</h2>
-Summary -> ![Alt Text](https://miro.medium.com/v2/resize:fit:1400/1*2Ej5djaPN0op1XfpMMLwgg.png)
+Summary -> 
 
 
 
