@@ -31,6 +31,14 @@ https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
 
 
+<h2>Kubernetes vs Docker</h2> 
+<div>
+  <img src="PUT IMAGE HERE" alt="description of the image" width="200" height="150" />
+  <p>Summary</p>
+  
+</div>
+https://github.com/tomasGonz67/is373/blob/dev/Kubernetes%20VS%20Docker
+
 <h2>Docker</h2> 
 <div>
   <img src="PUT IMAGE HERE" alt="description of the image" width="200" height="150" />
@@ -38,4 +46,5 @@ https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
   
 </div>
 https://github.com/tomasGonz67/is373/blob/dev/docker.md
+
 
