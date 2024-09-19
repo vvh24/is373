@@ -11,6 +11,7 @@ Some advantages of Virtualization are:
 2. Promotes use of resources in optimum manner
 3. Space saving
 
+<img src="img/containerization_vs_virtualization.png" alt="virtualization and containerization diagram" width= "400"/>
 and Containerization: 
 
 **Containerization** is a lightweight alternative to virtualization. This involves encapsulating an application in a container with its own operating environment.
