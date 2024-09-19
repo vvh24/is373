@@ -15,11 +15,9 @@ https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>Containerization</h2>
 <div>
+  <img src="https://github.com/user-attachments/assets/9c69308c-ade8-4ece-b0bd-cbb0813103ce" alt="description of the image" width="200" height="150" />
   containerization is good yes yes
-  <img src="https://github.com/user-attachments/assets/9c69308c-ade8-4ece-b0bd-cbb0813103ce" 
-       alt="description of the image" 
-       width="200" height="150" 
-       style="float: left; margin-right: 10px;" />
+  
 </div>
 
 https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
