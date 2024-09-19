@@ -5,6 +5,8 @@ Containerization is a method of packaging software into a single "container."
 This container can run consistently on any computing environment, whether it's a developer's laptop, 
 a server, or a cloud platform.
 
+<img src="img/containerization.png" alt="Containerization Diagram" width="400"/>
+
 ## Why Containerization?
 Containerization eliminates issues where software works on one machine but not another
 because of differences in environments. Containerization bundles the software and all 
