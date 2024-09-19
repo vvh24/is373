@@ -3,12 +3,21 @@
 <h5>This is a guide to understanding cloud computing. Topics included are Kernel, Virtualization, Containerization, and Docker/Kubernetes</h5>
 
 <h1> Table of Contents </h1>
-<h2>Kernel</h2> 
-Summary-> Image
+
+<h2>Kernel</h2>
+<div>
+  <img src="PUT IMAGE HERE" alt="description of the image" width="200" height="150" />
+  <p>Summary</p>
+  
+</div>
 https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
 
 <h2>Virtualization</h2> 
-Summary -> Image
+<div>
+  <img src="PUT IMAGE HERE" alt="description of the image" width="200" height="150" />
+  <p>Summary</p>
+  
+</div>
 https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 
@@ -19,11 +28,14 @@ https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
   <p>This is a summary</p>
   
 </div>
-
 https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
 
 
 <h2>Docker</h2> 
-Summary -> Image
+<div>
+  <img src="PUT IMAGE HERE" alt="description of the image" width="200" height="150" />
+  <p>Summary</p>
+  
+</div>
 https://github.com/tomasGonz67/is373/blob/dev/docker.md
 
