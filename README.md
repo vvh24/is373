@@ -12,7 +12,8 @@ Summary -> Image
 https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>Containerization</h2>
-Summary -> https://www.netscaler.com/content/dam/netscaler/images/graphics/infographics/what-is-containerization.png
+Summary -> ![image](https://github.com/user-attachments/assets/e4a9a77e-1b3e-4a0d-aed6-40ad9043bb58)
+
 
 
 
