@@ -13,7 +13,8 @@ https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 
 <h2>Containerization</h2>
-Summary -> ![Screenshot 2024-09-19 142359](https://github.com/user-attachments/assets/bec5e88e-ae2d-4a24-b023-5b3ad4f0551b)
+Summary -> ![Screenshot 2024-09-19 142359](https://github.com/user-attachments/assets/d93818e4-ed2b-47c6-a15a-d6025c50977c)
+
 
 
 
