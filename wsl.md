@@ -18,10 +18,9 @@ WSL is a big deal for several reasons:
 <h1>Installation Process:</h1>
 <h1>Installing WSL on Windows</h1>
 
-1. Enable WSL:
+**1. Enable WSL:
 Open PowerShell (search for it in the start menu, right-click, and run as administrator).
-Type this command and press Enter: wsl --install
-This installs WSL and sets up a Linux distribution (usually Ubuntu by default).
+Type this command and press Enter: wsl --install. This installs WSL and sets up a Linux distribution (usually Ubuntu by default).
 
 2. Restart your computer: Once the installation finishes, restart your computer.
 
