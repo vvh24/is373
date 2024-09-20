@@ -5,7 +5,7 @@ The Kernel is the core part of the operating system that manages system resource
 
 <img src="img/kernel.png" alt="kernel diagram" width= "400"/>
 
-## Why Kernal?
+## Why Kernel?
 The Kernel is responsible for many important tasks such as allocating and managing the system's memory. It manages the device by handling the communication between the system and hardware devices. It manages the file system by managing data storage and retreival from file systems. Lastly, it manages all the processes and thread: including theier creation, execution and termination. 
 
 ## Importance
