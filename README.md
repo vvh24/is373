@@ -29,7 +29,7 @@ https://github.com/tomasGonz67/is373/blob/dev/wsl.md
 <h2>5. Kubernetes vs Docker</h2>
 <img src="https://github.com/user-attachments/assets/cd287881-8a34-4598-a4cc-a88e7f9fab0b" alt="wsl diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover the  differences between Kubernetes vs Docker, and why you would pick one over the other.</p> 
-https://github.com/tomasGonz67/is373/blob/dev/Kubernetes%20VS%20Docker
+https://github.com/tomasGonz67/is373/blob/dev/Kubernetes%20VS%20Docker.md
 
 <h2>6. Docker</h2> 
 <img src="img/docker_gpt.png" alt="docker diagram made by chatgpt" width= "400"/>
