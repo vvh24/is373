@@ -2,7 +2,7 @@
 <h1>Understanding Cloud Computing</h1>
 <h5>This is a guide for beginners to understand cloud computing. Topics included are: Kernel, Containerization, Virtualization, WSL, and Docker</h5>
 
-<h1> Table of Content </h1>
+<h1> Table of Contents </h1>
 <h2>1. Kernel</h2> 
 <img src="img/kernel_gpt.png" alt="kernel diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover Kernel definition, why Kernel, how it works, and it's importance:</p> https://github.com/tomasGonz67/is373/blob/dev/Kernel.md
