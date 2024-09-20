@@ -44,4 +44,4 @@ But, if you specifically want to run a Linux environment on a Mac, here are some
 2. Use a virtual machine: You can install software like VirtualBox or VMware to run a full Linux distribution in a virtual machine on your Mac.
 
 <h3>Next Page</h3>
-https://github.com/tomasGonz67/is373/blob/dev/docker.md
+https://github.com/tomasGonz67/is373/blob/dev/Kubernetes%20VS%20Docker
