@@ -18,10 +18,12 @@
 <h2>4. Containerization vs. Virtualization</h2>
 <img src="img/vm_vs_containerization_gpt.png" alt="virtualization vs containerization diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover the difference between Containerization and Virtualization definition, strengths, and limitations:</p> 
+https://github.com/tomasGonz67/is373/blob/dev/Containerization%20vs%20Virtualization.md
 
 <h2>5. WSL (Windows Subsystem for Linux)</h2>
 <img src="img/wsl_gpt.png" alt="wsl diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover WSL definition, why WSL, how it works, it's importance, installation process:</p> 
+https://github.com/tomasGonz67/is373/blob/dev/wsl.md
 
 <h2>6. Docker</h2> 
 <img src="img/docker_gpt.png" alt="docker diagram made by chatgpt" width= "400"/>
