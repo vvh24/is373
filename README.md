@@ -26,6 +26,11 @@ https://github.com/tomasGonz67/is373/blob/dev/Containerization%20vs%20Virtualiza
 <p> In the link following link we will cover WSL definition, why WSL, how it works, it's importance, installation process:</p> 
 https://github.com/tomasGonz67/is373/blob/dev/wsl.md
 
+<h2>5. Kubernetes vs Docker</h2>
+<img src="img/wsl_gpt.png" alt="wsl diagram made by chatgpt" width= "400"/>
+<p> In the link following link we will cover the  differences between Kubernetes vs Docker, and why you would pick one over the other.</p> 
+https://github.com/tomasGonz67/is373/blob/dev/Kubernetes%20VS%20Docker
+
 <h2>6. Docker</h2> 
 <img src="img/docker_gpt.png" alt="docker diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover Docker definition, why Docker, how it works, it's importance, installation process:</p> https://github.com/tomasGonz67/is373/blob/dev/docker.md
