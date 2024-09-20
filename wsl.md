@@ -42,3 +42,6 @@ Mac doesn’t support WSL because it’s a Windows feature. However, Mac already
 But, if you specifically want to run a Linux environment on a Mac, here are some options:
 1. Use Homebrew: This is a package manager for macOS, which can help you install Linux-like tools and packages.
 2. Use a virtual machine: You can install software like VirtualBox or VMware to run a full Linux distribution in a virtual machine on your Mac.
+
+<h3>Next Page</h3>
+https://github.com/tomasGonz67/is373/blob/dev/docker.md
