@@ -12,4 +12,4 @@ The Kernel is responsible for many important tasks such as allocating and managi
 Without the Kernel, a system would be chaotic, insecure and insufficient. The Kernel provides is the central control allowing the entire system to function properly and it brings system effficiency by not allowing the system to become unresponsive or slow down. Also, the kernel provides security by ensuring overall stability/protecting the system from any unauthorized access and the kernel simplifies hardware interaction which enables compatibility where that brings ease of use for any developer.  
 
 
-<h3>Next Page</h3> https://github.com/tomasGonz67/is373/blob/dev/Kernel.md](https://github.com/tomasGonz67/is373/blob/dev/Containerization.md)
+<h3>Next Page</h3> https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
