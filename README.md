@@ -18,7 +18,6 @@ https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
 https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>4. VMs vs Baremetal</h2> 
-<img alt="virtualization diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover VMs vs Baremetal definition, and the differences between the two:</p> 
 https://github.com/tomasGonz67/is373/blob/dev/Baremetal%20vs%20VMs
 
