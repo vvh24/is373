@@ -13,4 +13,4 @@ Virtualization provides flexibility and efficiency in managing IT resources. Thi
 Virtualization works by using a hypervisor, which is software that sits between the physical hardware and the virtual machines (VMs). A VM operates like an independent computer with its own OS and applications, separate from the host's OS. Unlike containers, VMs require a full OS for each instance, which makes them more resource-intensive. This setup provides strong isolation between environments, allowing multiple operating systems to run on the same physical machine. However, because each VM runs a complete OS, VMs are heavier (using more storage and memory) and slower to start compared to containers.
 
 <h3>Next Page</h3>
-https://github.com/tomasGonz67/is373/edit/dev/Baremetal%20vs%20VMs.md
+https://github.com/tomasGonz67/is373/blob/dev/Baremetal%20vs%20VMs.md
