@@ -19,7 +19,7 @@ https://github.com/tomasGonz67/is373/blob/dev/Virtualization.md
 
 <h2>4. VMs vs Baremetal</h2> 
 <p> In the link following link we will cover VMs vs Baremetal definition, and the differences between the two:</p> 
-https://github.com/tomasGonz67/is373/blob/dev/Baremetal%20vs%20VMs
+https://github.com/tomasGonz67/is373/blob/dev/Baremetal%20vs%20VMs.md
 
 <h2>5. Containerization vs. Virtualization</h2>
 <img src="img/vm_vs_containerization_gpt.png" alt="virtualization vs containerization diagram made by chatgpt" width= "400"/>
