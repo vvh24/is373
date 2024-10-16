@@ -20,20 +20,3 @@ Some advantages of Docker are:
 1. Isolation
 2. Consistency Across Environments
 3. Lighweight and Fast
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h3>Next Page</h3>
-https://github.com/tomasGonz67/is373/blob/dev/docker.md
