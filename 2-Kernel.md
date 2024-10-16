@@ -20,6 +20,3 @@ Handle Processes: The kernel controls the execution of processes, processes the 
 Controls Memory: The kernel manages how memory is allocated, used, and swapped between applications to ensure smooth operation.
 Facilitates Communication: Through system calls and APIs, it allows user applications to request resources and interact with the system.
 Maintains Security: The kernel enforces system security through access control, process isolation, and user authentication.
-
-
-<h3>Next Page</h3> https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
