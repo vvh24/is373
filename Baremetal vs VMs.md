@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Baremetal vs VMs
 ---
 
 <h1>Summary</h1>
