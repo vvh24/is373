@@ -30,6 +30,3 @@ Some of the differences between containerization and virtualization are:
 <div align="center">
   <img src = "img/differences_containerization_virtualization.png" alt="differences diagram" width="700"/>
 </div>
-
-<h3>Next Page</h3>
-[wsl](https://tomasgonz67.github.io/is373hexo/2024/10/16/wsl/)
