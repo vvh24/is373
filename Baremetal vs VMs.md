@@ -1,3 +1,5 @@
+title: Baremetal vs VMs
+
 <h1>Summary</h1>
 When it comes to hosting servers or other computing resources—such as database servers, OS simulations, and development/testing tools—two common approaches are using Bare Metal servers or Virtual Machines (VMs). Both methods offer distinct advantages and serve different purposes depending on the specific requirements of the workload.
 <h1>How Bare Metal Works</h1>
