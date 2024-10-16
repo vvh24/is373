@@ -1,4 +1,6 @@
-<h1> Kubernetes vs Docker </h1>
+---
+title: Kubernetes vs Docker
+---
 
 As we could learn from previous readings: 
 
