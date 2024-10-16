@@ -3,8 +3,6 @@ title: Containerization
 order: 2
 ---
 
-# Containerization
-
 ## Definition
 Containerization is a method of packaging software into a single "container." 
 This container can run consistently on any computing environment, whether it's a developer's laptop, 
