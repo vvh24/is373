@@ -1,4 +1,6 @@
-<h1> Containerization vs Virtualization </h1>
+---
+title: Containerization vs Virtualization
+---
 
 As we could learn from previous readings:
 
@@ -8,7 +10,7 @@ Each VM can then interact independently and run different operating systems or a
 
 Some advantages of Virtualization are: 
 1. Enhanced performance
-2. Promotes use of resources in optimum manner
+2. Promotes the use of resources in an optimum manner
 3. Space saving
 
 <img src="img/containerization_vs_virtualization.png" alt="virtualization and containerization diagram" width= "400"/>
@@ -29,4 +31,4 @@ Some of the differences between containerization and virtualization are:
 </div>
 
 <h3>Next Page</h3>
-https://github.com/tomasGonz67/is373/blob/dev/wsl.md
+[wsl](https://tomasgonz67.github.io/is373hexo/2024/10/16/wsl/)
