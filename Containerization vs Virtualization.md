@@ -1,5 +1,6 @@
 ---
 title: Containerization vs Virtualization
+order: 5
 ---
 
 As we could learn from previous readings:
