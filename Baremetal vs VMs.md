@@ -1,5 +1,6 @@
 ---
 title: Baremetal vs VMs
+order: 4
 ---
 
 <h1>Summary</h1>
