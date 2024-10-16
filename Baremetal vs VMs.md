@@ -44,4 +44,4 @@ VMs run on a hypervisor (type1- baremetal hypervisor or type2- hosted hypervisor
 
 
 <h1>Next Page</h1>
-https://github.com/tomasGonz67/is373/blob/dev/Containerization%20vs%20Virtualization.md
+[Containerization Vs Virtualization](https://tomasgonz67.github.io/is373hexo/2024/10/16/Containerization%20vs%20Virtualization)
