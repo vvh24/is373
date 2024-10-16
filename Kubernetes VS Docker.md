@@ -1,5 +1,6 @@
 ---
 title: Kubernetes vs Docker
+order: 7
 ---
 
 As we could learn from previous readings: 
