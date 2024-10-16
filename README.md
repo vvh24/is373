@@ -10,7 +10,7 @@
 <h2>2. Containerization</h2>
 <img src="img/containerization_gpt.png" alt="containerization diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover Containerization definition, why containerization, how it works, and it's importance:</p> 
-https://github.com/tomasGonz67/is373/blob/dev/Containerization.md
+[Containerization](https://tomasgonz67.github.io/is373hexo/2024/10/16/Containerization/)
 
 <h2>3. Virtualization</h2> 
 <img src="img/vm_gpt.png" alt="virtualization diagram made by chatgpt" width= "400"/>
