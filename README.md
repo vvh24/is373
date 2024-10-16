@@ -6,7 +6,7 @@
 <h2>1. Kernel</h2> 
 <img src="img/kernel_gpt.png" alt="kernel diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover Kernel definition, why Kernel, how it works, and it's importance:</p> 
-[Kernel](https://tomasgonz67.github.io/is373hexo/2024/10/16/Kernel/)
+[Kernel](./Kernel)
 
 <h2>2. Containerization</h2>
 <img src="img/containerization_gpt.png" alt="containerization diagram made by chatgpt" width= "400"/>
