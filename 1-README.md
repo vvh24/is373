@@ -6,8 +6,8 @@ order: 0
 <h5>This is a guide for beginners to understand cloud computing. Below is the table of contents to the guide, and on the side are the different links</h5>
 
 
-<h2>[Kernel](/is373hexo/2024/10/17/2-Kernel/)</h2> 
-<h2>[Writing](/is373hexo/2024/10/17/2-Kernel/</h2>
+<h2>[Kernel](is373hexo/2024/10/17/2-Kernel/)</h2> 
+<h2>[Writing](is373hexo/2024/10/17/2-Kernel/</h2>
 <img src="img/kernel_gpt.png" alt="kernel diagram made by chatgpt" width= "400"/>
 <p> In the link following link we will cover Kernel definition, why Kernel, how it works, and it's importance:</p> 
 
