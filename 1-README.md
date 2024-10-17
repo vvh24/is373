@@ -1,5 +1,6 @@
 ---
 title: Table of Contents
+date: 2024-10-15 10:00:00
 order: 0
 ---
 # Welcome to the student survival guide to cloud computing concepts :)

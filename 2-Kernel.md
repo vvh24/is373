@@ -1,5 +1,6 @@
 ---
 title: Kernel
+date: 2024-10-15 10:00:00
 order: 1
 ---
 
