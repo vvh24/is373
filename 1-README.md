@@ -9,7 +9,7 @@ order: 0
 
 <h2>1. Kernel</h2>
 
-<img src="img/kernel_gpt.png" alt="kernel diagram made by chatgpt" width= "400"/>
+<img src="/img/kernel_gpt.png" alt="kernel diagram made by chatgpt" width= "400"/>
 <p> We will cover Kernel definition, why Kernel, how it works, and it's importance:</p> 
 
 <h2>2. Containerization</h2>
