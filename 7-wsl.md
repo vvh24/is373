@@ -6,7 +6,7 @@ order: 6
 <h1>Definition</h1>
 WSL is a tool that lets you run a full Linux environment directly on your Windows computer. It’s like having both Windows and Linux side-by-side without needing to switch between them. You can use Linux commands, run Linux software, and work with files in both systems easily. Think of WSL as a bridge that allows Windows to use Linux features without needing a separate Linux installation.
 
-<img src="img/wsl.png" alt="wsl diagram" width="400"/>
+<img src="/is373hexo/img/wsl.png" alt="wsl diagram" width="400"/>
 
 <h1>How does WSL work?</h1>
 WSL creates a lightweight "virtual machine" inside your Windows system. It lets Windows and Linux work together smoothly by:

@@ -13,7 +13,7 @@ Some advantages of Kubernetes are:
 2. Efficient Resource Utilization
 3. Rolling Updates and Rollbacks
 
-<img src="img/kubernetes_vs_docker.png" alt="kuberentes and docker diagram" width= "700"/> and Docker
+<img src="/is373hexo/img/kubernetes_vs_docker.png" alt="kuberentes and docker diagram" width= "700"/> and Docker
 
 **Docker** helps us by allowing user to package an application and all of its dependencies into a standerized unit. It ensures that the applications run the same regardless of where they are deployed which eliminates a common of issue "it works on my machine" since the environment is consistent across all stages.
 

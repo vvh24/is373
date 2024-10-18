@@ -6,7 +6,7 @@ order: 3
 <h1>Definition</h1>
 Virtualization is the process of creating virtual instances of physical hardware such as servers, storage devices, or network resources. 
 
-<img src = "img/virtualization.png" alt="virtualization diagram" width="400"/>
+<img src = "/is373hexo/img/virtualization.png" alt="virtualization diagram" width="400"/>
 <h1>Why Virtualization?</h1>
 Virtualization allows for one physical machine to fully maximize its resources by creating numerous virtual machines. This allows for horizontal scaling by spinning up more VMs across multiple servers to handle increasing demand.
 
