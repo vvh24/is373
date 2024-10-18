@@ -3,7 +3,7 @@ title: Table of Contents
 date: 2024-10-15 10:00:00
 order: 0
 ---
-# Welcome to the student survival guide to cloud computing concepts :)
+
 <h5>This is a guide for beginners to understand cloud computing. Below is the table of contents to the guide, and on the side are the different links</h5>
 
 
