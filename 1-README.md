@@ -21,6 +21,7 @@ order: 0
 <p> We will cover Virtualization definition, why virtualization, how it works, and it's importance:</p> 
 
 <h2>4. VMs vs Baremetal</h2> 
+<img src="/is373hexo/img/vmsvsbaremetal.png" alt="vms vs baremetal diagram made by chatgpt" width= "400"/>
 <p> We will cover VMs vs Baremetal definition, and the differences between the two:</p> 
 
 <h2>5. Containerization vs. Virtualization</h2>
